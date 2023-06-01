@@ -83,7 +83,7 @@ var tzStrings = [
     { "label": "(GMT+13:00) Nuku'alofa", "value": "Pacific/Tongatapu" }
 ]
 
-var calSrcTemplate = "https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=TIMEZONE&showCalendars=0&showTabs=0&showTitle=1&showNav=0&mode=WEEK&title=Furality%20events&showPrint=0&showDate=1&src=ZTRkMDQzYTA0YzExZjJjNzMzOTY1ZDQxZTFjYzFlYzY5NTg1MzU5MmI5NmNmMGVkYjM1NjI4MWFkOTAwOTkwZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZDQ3Mjk0ODU0YmVjNThiYmU3ZTBhNDY2ZjVkZTM1YWU1YWQ2MzJkNjA4NmQ5MDA3NTNiZmIzZWI1MzJkYzYzY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=NDIxOTg4OGM2NWY1MzU1ZTY4OTZmYTg1ZTk2MzgwNjEyYjRiMDQ2MGM0ZDk5YWI2OTQxY2E1MzI4Njc5OGM2MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%238E24AA&color=%23039BE5&color=%237CB342"
+var calSrcTemplate = "https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=TIMEZONE&showCalendars=0&showTabs=0&showTitle=1&showNav=0&mode=WEEK&title=Furality%20events&showPrint=0&showDate=1&src=ZTRkMDQzYTA0YzExZjJjNzMzOTY1ZDQxZTFjYzFlYzY5NTg1MzU5MmI5NmNmMGVkYjM1NjI4MWFkOTAwOTkwZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZDQ3Mjk0ODU0YmVjNThiYmU3ZTBhNDY2ZjVkZTM1YWU1YWQ2MzJkNjA4NmQ5MDA3NTNiZmIzZWI1MzJkYzYzY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=NDIxOTg4OGM2NWY1MzU1ZTY4OTZmYTg1ZTk2MzgwNjEyYjRiMDQ2MGM0ZDk5YWI2OTQxY2E1MzI4Njc5OGM2MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%238E24AA&color=%23039BE5&color=%237CB342"
 
 function initTzs() {
     // Clear elem
